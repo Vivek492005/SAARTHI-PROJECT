@@ -1,0 +1,12 @@
+venv/
+.venv/
+eye_assist_env/
+venv_new/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+node_modules/
+dist/
+build/
+*.zip

@@ -1,0 +1,3 @@
+#define cursorControl_VERSION_MAJOR @cursorControl_VERSION_MAJOR@
+#define cursorControl_VERSION_MINOR @cursorControl_VERSION_MINOR@
+#define cursorControl_VERSION_PATCH @cursorControl_VERSION_PATCH@
